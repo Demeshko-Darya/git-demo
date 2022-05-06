@@ -41,4 +41,8 @@ I just want to live while I'm alive
 My heart is like an open highway
 Like Frankie said, "I did it my way"
 I just want to live while I'm alive
+<<<<<<< HEAD
 'Cause it's my life
+=======
+'Cause it's my life
+>>>>>>> 4b6e07f3c2548e3534d4c5eb4a806a3964e8203d
